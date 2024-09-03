@@ -1,0 +1,28 @@
+[0.703s] Invoking command in '/home/sw/detection_ws/src/yolov8_ros/yolov8_ros': CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ PYTHONPATH=/home/sw/detection_ws/build/yolov8_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/yolov8_ros build --build-base /home/sw/detection_ws/build/yolov8_ros/build install --record /home/sw/detection_ws/build/yolov8_ros/install.log --single-version-externally-managed install_data
+[0.956s] running egg_info
+[0.956s] writing ../../../build/yolov8_ros/yolov8_ros.egg-info/PKG-INFO
+[0.957s] writing dependency_links to ../../../build/yolov8_ros/yolov8_ros.egg-info/dependency_links.txt
+[0.957s] writing entry points to ../../../build/yolov8_ros/yolov8_ros.egg-info/entry_points.txt
+[0.957s] writing requirements to ../../../build/yolov8_ros/yolov8_ros.egg-info/requires.txt
+[0.957s] writing top-level names to ../../../build/yolov8_ros/yolov8_ros.egg-info/top_level.txt
+[0.959s] reading manifest file '../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[0.959s] writing manifest file '../../../build/yolov8_ros/yolov8_ros.egg-info/SOURCES.txt'
+[0.959s] running build
+[0.960s] running build_py
+[0.960s] copying yolov8_ros/yolov8_node.py -> /home/sw/detection_ws/build/yolov8_ros/build/lib/yolov8_ros
+[0.960s] running install
+[0.960s] running install_lib
+[0.961s] copying /home/sw/detection_ws/build/yolov8_ros/build/lib/yolov8_ros/yolov8_node.py -> /home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros
+[0.962s] byte-compiling /home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros/yolov8_node.py to yolov8_node.cpython-310.pyc
+[0.963s] running install_data
+[0.964s] running install_egg_info
+[0.965s] removing '/home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.965s] Copying ../../../build/yolov8_ros/yolov8_ros.egg-info to /home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages/yolov8_ros-0.0.0-py3.10.egg-info
+[0.966s] running install_scripts
+[0.983s] Installing debug_node script to /home/sw/detection_ws/install/yolov8_ros/lib/yolov8_ros
+[0.984s] Installing detect_3d_node script to /home/sw/detection_ws/install/yolov8_ros/lib/yolov8_ros
+[0.984s] Installing tracking_node script to /home/sw/detection_ws/install/yolov8_ros/lib/yolov8_ros
+[0.984s] Installing webcam_node script to /home/sw/detection_ws/install/yolov8_ros/lib/yolov8_ros
+[0.984s] Installing yolov8_node script to /home/sw/detection_ws/install/yolov8_ros/lib/yolov8_ros
+[0.984s] writing list of installed files to '/home/sw/detection_ws/build/yolov8_ros/install.log'
+[1.001s] Invoked command in '/home/sw/detection_ws/src/yolov8_ros/yolov8_ros' returned '0': CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ PYTHONPATH=/home/sw/detection_ws/build/yolov8_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sw/detection_ws/install/yolov8_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/yolov8_ros build --build-base /home/sw/detection_ws/build/yolov8_ros/build install --record /home/sw/detection_ws/build/yolov8_ros/install.log --single-version-externally-managed install_data

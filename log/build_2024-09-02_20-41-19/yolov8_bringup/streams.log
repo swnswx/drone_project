@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/sw/detection_ws/build/yolov8_bringup': AMENT_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_ros:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_msgs:/opt/ros/humble CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ /usr/bin/cmake --build /home/sw/detection_ws/build/yolov8_bringup -- -j12 -l12
+[0.042s] Invoked command in '/home/sw/detection_ws/build/yolov8_bringup' returned '0': AMENT_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_ros:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_msgs:/opt/ros/humble CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ /usr/bin/cmake --build /home/sw/detection_ws/build/yolov8_bringup -- -j12 -l12
+[0.065s] Invoking command in '/home/sw/detection_ws/build/yolov8_bringup': AMENT_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_ros:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_msgs:/opt/ros/humble CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ /usr/bin/cmake --install /home/sw/detection_ws/build/yolov8_bringup
+[0.071s] -- Install configuration: ""
+[0.071s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch
+[0.071s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch/yolov10.launch.py
+[0.071s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch/yolov8_3d.launch.py
+[0.071s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch/yolov9.launch.py
+[0.071s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch/yolo-nas.launch.py
+[0.071s] -- Installing: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup//launch/yolov8.launch.py
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/ament_index/resource_index/package_run_dependencies/yolov8_bringup
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/ament_index/resource_index/parent_prefix_path/yolov8_bringup
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/environment/ament_prefix_path.sh
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/environment/ament_prefix_path.dsv
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/environment/path.sh
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/environment/path.dsv
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/local_setup.bash
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/local_setup.sh
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/local_setup.zsh
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/local_setup.dsv
+[0.072s] -- Installing: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/package.dsv
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/ament_index/resource_index/packages/yolov8_bringup
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/cmake/yolov8_bringupConfig.cmake
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/cmake/yolov8_bringupConfig-version.cmake
+[0.072s] -- Up-to-date: /home/sw/detection_ws/install/yolov8_bringup/share/yolov8_bringup/package.xml
+[0.074s] Invoked command in '/home/sw/detection_ws/build/yolov8_bringup' returned '0': AMENT_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_ros:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_msgs:/opt/ros/humble CMAKE_PREFIX_PATH=/home/sw/detection_ws/install/yolov8_msgs:/home/sw/detection_ws/install/yolov8_bringup:/home/sw/detection_ws/install/yolov8_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/sw/detection_ws/install/yolov8_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/lib/:/usr/local/lib/ /usr/bin/cmake --install /home/sw/detection_ws/build/yolov8_bringup
